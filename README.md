@@ -1,5 +1,5 @@
 ## Hi, I'm Tiger0-o 👋
-I am an **alpha male sigma rizz ohio gyatt skbidi unemployed aura farming mango 6 7 goonsquad vibe coder** with 0.31415 decades of coding experience. Currently subsisting on AI to code all of my **LIFE-CHANGING, IMPACTFUL** coding projects 😭.
+
 
 ## 🚀 Featured Projects
 [Supply Chains](https://github.com/Tiger0-o/Supply-Chains) - a fast-paced puzzle game with 99% redundant code 😐. \
